@@ -1,0 +1,196 @@
+./datasets/X_train_sc_1544053604.csv: First
+../datasets/X_train_sc_1544053604.csv: First
+./datasets/X_test_sc_1544053604.csv: First
+./datasets/y_train_1544053604.csv: First
+../datasets/X_test_sc_1544053604.csv: First
+../datasets/y_train_1544053604.csv: First
+../datasets/y_test_1544053604.csv: First
+../assets/scaler_1544053604.pkl: First
+../assets/columns_1544053604.pkl: First
+../datasets/X_train_sc_1544054420.csv: First
+../datasets/X_test_sc_1544054420.csv: First
+../datasets/y_train_1544054420.csv: First
+../datasets/y_test_1544054420.csv: First
+../assets/scaler_1544054420.pkl: First
+../assets/columns_1544054420.pkl: First
+../datasets/X_train_sc_1544057345.csv: Drop Basement sub categories
+../datasets/X_test_sc_1544057345.csv: Drop Basement sub categories
+../datasets/y_train_1544057345.csv: Drop Basement sub categories
+../datasets/y_test_1544057345.csv: Drop Basement sub categories
+../assets/scaler_1544057345.pkl: Drop Basement sub categories
+../assets/columns_1544057345.pkl: Drop Basement sub categories
+../datasets/X_train_sc_1544059754.csv: Dropped the CentralAir,Total Basement and Ground Living Area
+../datasets/X_test_sc_1544059754.csv: Dropped the CentralAir,Total Basement and Ground Living Area
+../datasets/y_train_1544059754.csv: Dropped the CentralAir,Total Basement and Ground Living Area
+../datasets/y_test_1544059754.csv: Dropped the CentralAir,Total Basement and Ground Living Area
+../assets/scaler_1544059754.pkl: Dropped the CentralAir,Total Basement and Ground Living Area
+../assets/columns_1544059754.pkl: Dropped the CentralAir,Total Basement and Ground Living Area
+../datasets/X_train_sc_1544059942.csv: 
+../datasets/X_test_sc_1544059942.csv: Modified dropped correlated columns
+../datasets/y_train_1544059942.csv: 
+../datasets/X_train_sc_1544060007.csv: Cleaned
+../datasets/X_test_sc_1544060007.csv: Cleaned
+../datasets/y_train_1544060007.csv: Cleaned
+../datasets/y_test_1544060007.csv: Cleaned
+../assets/scaler_1544060007.pkl: Cleaned
+../assets/columns_1544060007.pkl: Cleaned
+../datasets/X_train_sc_1544060031.csv: 
+../datasets/X_test_sc_1544060031.csv: 
+../datasets/y_train_1544060031.csv: 
+../datasets/y_test_1544060031.csv: 
+../assets/scaler_1544060031.pkl: 
+../assets/columns_1544060031.pkl: 
+../datasets/X_train_sc_1544060993.csv: No Garage Cars Feature
+../datasets/X_test_sc_1544060993.csv: No Garage Cars Feature
+../datasets/y_train_1544060993.csv: No Garage Cars Feature
+../datasets/y_test_1544060993.csv: No Garage Cars Feature
+../assets/scaler_1544060993.pkl: No Garage Cars Feature
+../assets/columns_1544060993.pkl: No Garage Cars Feature
+../datasets/X_train_sc_1544065485.csv: 
+../datasets/X_train_sc_1544065604.csv: random state 
+../datasets/X_test_sc_1544065604.csv: random state 
+../datasets/y_train_1544065604.csv: random state 
+../datasets/y_test_1544065604.csv: random state 
+../assets/scaler_1544065604.pkl: random state 
+../assets/columns_1544065604.pkl: random state 
+../datasets/X_train_sc_1544065791.csv: random state =42
+../datasets/X_test_sc_1544065791.csv: random state =42
+../datasets/y_train_1544065791.csv: random state =42
+../datasets/y_test_1544065791.csv: random state =42
+../assets/scaler_1544065791.pkl: random state =42
+../assets/columns_1544065791.pkl: random state =42
+../datasets/X_train_sc_1544075507.csv: select only high correlated features
+../datasets/X_test_sc_1544075507.csv: select only high correlated features
+../datasets/y_train_1544075507.csv: select only high correlated features
+../datasets/y_test_1544075507.csv: select only high correlated features
+../assets/scaler_1544075507.pkl: select only high correlated features
+../assets/columns_1544075507.pkl: select only high correlated features
+../datasets/X_train_sc_1544082252.csv: log transfomred
+../datasets/X_test_sc_1544082252.csv: log transfomred
+../datasets/y_train_1544082252.csv: log transfomred
+../datasets/y_test_1544082252.csv: log transfomred
+../assets/scaler_1544082252.pkl: log transfomred
+../assets/columns_1544082252.pkl: log transfomred
+../datasets/X_train_sc_1544086785.csv: garage finish to number
+../datasets/X_test_sc_1544086785.csv: garage finish to number
+../datasets/y_train_1544086785.csv: garage finish to number
+../datasets/y_test_1544086785.csv: garage finish to number
+../assets/scaler_1544086785.pkl: garage finish to number
+../assets/columns_1544086785.pkl: garage finish to number
+../datasets/X_train_sc_1544089352.csv: more ordered numbers
+../datasets/X_test_sc_1544089352.csv: more ordered numbers
+../datasets/y_train_1544089352.csv: more ordered numbers
+../datasets/y_test_1544089352.csv: more ordered numbers
+../assets/scaler_1544089352.pkl: more ordered numbers
+../assets/columns_1544089352.pkl: more ordered numbers
+../datasets/X_train_sc_1544089738.csv: 
+../datasets/X_test_sc_1544089738.csv: 
+../datasets/y_train_1544089738.csv: 
+../datasets/y_test_1544089738.csv: 
+../assets/scaler_1544089738.pkl: 
+../assets/columns_1544089738.pkl: 
+../datasets/X_train_sc_1544089758.csv: numeric 
+../datasets/X_test_sc_1544089758.csv: numeric 
+../datasets/y_train_1544089758.csv: numeric 
+../datasets/y_test_1544089758.csv: numeric 
+../assets/scaler_1544089758.pkl: numeric 
+../assets/columns_1544089758.pkl: numeric 
+../datasets/X_train_sc_1544089988.csv: again 
+../datasets/X_test_sc_1544089988.csv: again 
+../datasets/y_train_1544089988.csv: again 
+../datasets/y_test_1544089988.csv: again 
+../assets/scaler_1544089988.pkl: again 
+../assets/columns_1544089988.pkl: again 
+../datasets/X_train_sc_1544090227.csv: k
+../datasets/X_test_sc_1544090227.csv: k
+../datasets/y_train_1544090227.csv: k
+../datasets/y_test_1544090227.csv: k
+../assets/scaler_1544090227.pkl: k
+../assets/columns_1544090227.pkl: k
+../datasets/X_train_sc_1544093666.csv: poly feature
+../datasets/X_test_sc_1544093666.csv: poly feature
+../datasets/y_train_1544093666.csv: poly feature
+../datasets/y_test_1544093666.csv: poly feature
+../assets/scaler_1544093666.pkl: poly feature
+../assets/columns_1544093666.pkl: poly feature
+../datasets/X_train_sc_1544094449.csv: poly
+../datasets/X_test_sc_1544094449.csv: poly
+../datasets/y_train_1544094449.csv: poly
+../datasets/y_test_1544094449.csv: poly
+../assets/scaler_1544094449.pkl: poly
+../assets/columns_1544094449.pkl: poly
+../datasets/X_train_1544097020.csv: pipeline
+../datasets/X_test_1544097020.csv: pipeline
+../datasets/y_train_1544097020.csv: pipeline
+../datasets/y_test_1544097020.csv: pipeline
+../datasets/X_train_1544097612.csv: rerun
+../datasets/X_test_1544097612.csv: rerun
+../datasets/y_train_1544097612.csv: rerun
+../datasets/y_test_1544097612.csv: rerun
+../datasets/X_train_1544097660.csv: rerun
+../datasets/X_test_1544097660.csv: rerun
+../datasets/y_train_1544097660.csv: rerun
+../datasets/y_test_1544097660.csv: rerun
+../assets/columns_1544097660.pkl: rerun
+../datasets/X_train_1544097689.csv: rerun
+../datasets/X_test_1544097689.csv: rerun
+../datasets/y_train_1544097689.csv: rerun
+../datasets/y_test_1544097689.csv: rerun
+../assets/columns_1544097689.pkl: rerun
+../datasets/X_train_1544098043.csv: rerun
+../datasets/X_test_1544098043.csv: rerun
+../datasets/y_train_1544098043.csv: rerun
+../datasets/y_test_1544098043.csv: rerun
+../assets/columns_1544098043.pkl: rerun
+../datasets/X_train_1544099052.csv: rerun
+../datasets/X_test_1544099052.csv: rerun
+../datasets/y_train_1544099052.csv: rerun
+../datasets/y_test_1544099052.csv: rerun
+../assets/columns_1544099052.pkl: rerun
+../datasets/X_train_1544099329.csv: 
+../datasets/X_test_1544099329.csv: d
+../datasets/y_train_1544099329.csv: 
+../datasets/y_test_1544099329.csv: 
+../assets/columns_1544099329.pkl: 
+../datasets/X_train_1544105386.csv: more fearue
+../datasets/X_test_1544105386.csv: more fearue
+../datasets/y_train_1544105386.csv: more fearue
+../datasets/y_test_1544105386.csv: more fearue
+../assets/columns_1544105386.pkl: more fearue
+../datasets/X_train_1544105634.csv: fix feature
+../datasets/X_test_1544105634.csv: fix feature
+../datasets/y_train_1544105634.csv: fix feature
+../datasets/y_test_1544105634.csv: fix feature
+../assets/columns_1544105634.pkl: fix feature
+../datasets/X_train_1544106331.csv: last try
+../datasets/X_test_1544106331.csv: last try
+../datasets/y_train_1544106331.csv: last try
+../datasets/y_test_1544106331.csv: last try
+../assets/columns_1544106331.pkl: last try
+../datasets/X_train_1544141416.csv: very last submission
+../datasets/X_test_1544141416.csv: very last submission
+../datasets/y_train_1544141416.csv: very last submission
+../datasets/y_test_1544141416.csv: very last submission
+../assets/columns_1544141416.pkl: very last submission
+../assets/columns_1544141416.pkl: very last submission
+../datasets/X_train_1544141927.csv: the very last one
+../datasets/X_test_1544141927.csv: the very last one
+../datasets/y_train_1544141927.csv: the very last one
+../datasets/y_test_1544141927.csv: the very last one
+../assets/columns_1544141927.pkl: the very last one
+../datasets/X_train_1544145963.csv: notebook last version
+../datasets/X_test_1544145963.csv: notebook last version
+../datasets/y_train_1544145963.csv: notebook last version
+../datasets/y_test_1544145963.csv: notebook last version
+../assets/columns_1544145963.pkl: notebook last version
+../datasets/X_train_1544146930.csv: wrong
+../datasets/X_test_1544146930.csv: wrong
+../datasets/y_train_1544146930.csv: wrong
+../datasets/y_test_1544146930.csv: wrong
+../assets/columns_1544146930.pkl: wrong
+../datasets/X_train_1544153112.csv: last attempt
+../datasets/X_test_1544153112.csv: last attempt
+../datasets/y_train_1544153112.csv: last attempt
+../datasets/y_test_1544153112.csv: last attempt
+../assets/columns_1544153112.pkl: last attempt
+../assets/columns_1544153112.pkl: last attempt
